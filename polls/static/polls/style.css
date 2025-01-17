@@ -1,7 +1,10 @@
 body {
-    background: white url("images/background.png") no-repeat;
+    background: url("../images/12893175_5072612.jpg") no-repeat center center fixed;
+    background-size: cover;
+    color: white !important;
+    font-family: 'Vazirmatn' !important;
 }
 
 li a {
-    color: green;
+    color: #fff;
 }
